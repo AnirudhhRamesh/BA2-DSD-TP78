@@ -1,0 +1,433 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/18.1
+Ebcd_to_7seg
+w1619118442
+Z0 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dC:/Users/aniru/Documents/EPFL/BA First Year/BA2/DSD/Graded_TP/TP78/modelsim
+8C:/Users/aniru/Documents/EPFL/BA First Year/BA2/DSD/Graded_TP/TP78/tp78/entities/bcd_to_7seg-entity.vhd
+FC:/Users/aniru/Documents/EPFL/BA First Year/BA2/DSD/Graded_TP/TP78/tp78/entities/bcd_to_7seg-entity.vhd
+l0
+L6
+V<R?P@G1ePN[PMS<6Jl43m0
+!s100 R6=NfhMbEZlifnING^>1I0
+Z4 OV;C;10.5b;63
+32
+Z5 !s110 1621876264
+!i10b 1
+Z6 !s108 1621876264.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/aniru/Documents/EPFL/BA First Year/BA2/DSD/Graded_TP/TP78/tp78/entities/bcd_to_7seg-entity.vhd|
+!s107 C:/Users/aniru/Documents/EPFL/BA First Year/BA2/DSD/Graded_TP/TP78/tp78/entities/bcd_to_7seg-entity.vhd|
+!i113 1
+Z7 o-work work -2002 -explicit
+Z8 tExplicit 1 CvgOpt 0
+Artl
+w1621867187
+R0
+R1
+R2
+Z9 DEx4 work 11 bcd_to_7seg 0 22 <R?P@G1ePN[PMS<6Jl43m0
+8C:/Users/aniru/Documents/EPFL/BA First Year/BA2/DSD/Graded_TP/TP78/tp78/architectures/bcd_to_7seg-rtl.vhd
+FC:/Users/aniru/Documents/EPFL/BA First Year/BA2/DSD/Graded_TP/TP78/tp78/architectures/bcd_to_7seg-rtl.vhd
+l27
+L1
+VOcSeCn`5R^o^CRl5lRL7Q1
+!s100 9hF^Ab5bF60N[C2Mh_:mj3
+R4
+32
+Z10 !s110 1621876265
+!i10b 1
+Z11 !s108 1621876265.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/aniru/Documents/EPFL/BA First Year/BA2/DSD/Graded_TP/TP78/tp78/architectures/bcd_to_7seg-rtl.vhd|
+!s107 C:/Users/aniru/Documents/EPFL/BA First Year/BA2/DSD/Graded_TP/TP78/tp78/architectures/bcd_to_7seg-rtl.vhd|
+!i113 1
+R7
+R8
+Ebin_to_bcd
+w1619138218
+R0
+R1
+R2
+R3
+8C:/Users/aniru/Documents/EPFL/BA First Year/BA2/DSD/Graded_TP/TP78/tp78/entities/bin_to_bcd-entity.vhd
+FC:/Users/aniru/Documents/EPFL/BA First Year/BA2/DSD/Graded_TP/TP78/tp78/entities/bin_to_bcd-entity.vhd
+l0
+L6
+VD[m`]^W75ndV@lNa?;7l11
+!s100 WMBnH=b7I?`eAmFXWzPma1
+R4
+32
+R5
+!i10b 1
+R6
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/aniru/Documents/EPFL/BA First Year/BA2/DSD/Graded_TP/TP78/tp78/entities/bin_to_bcd-entity.vhd|
+!s107 C:/Users/aniru/Documents/EPFL/BA First Year/BA2/DSD/Graded_TP/TP78/tp78/entities/bin_to_bcd-entity.vhd|
+!i113 1
+R7
+R8
+Artl
+w1619181804
+R0
+R1
+R2
+Z12 DEx4 work 10 bin_to_bcd 0 22 D[m`]^W75ndV@lNa?;7l11
+8C:/Users/aniru/Documents/EPFL/BA First Year/BA2/DSD/Graded_TP/TP78/tp78/architectures/bin_to_bcd-rtl.vhd
+FC:/Users/aniru/Documents/EPFL/BA First Year/BA2/DSD/Graded_TP/TP78/tp78/architectures/bin_to_bcd-rtl.vhd
+l20
+L1
+VgRRz:4LiaEBBiCU`ODXHa1
+!s100 hJdLD`6nKB1[1U]Eb;fj?2
+R4
+32
+R10
+!i10b 1
+R11
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/aniru/Documents/EPFL/BA First Year/BA2/DSD/Graded_TP/TP78/tp78/architectures/bin_to_bcd-rtl.vhd|
+!s107 C:/Users/aniru/Documents/EPFL/BA First Year/BA2/DSD/Graded_TP/TP78/tp78/architectures/bin_to_bcd-rtl.vhd|
+!i113 1
+R7
+R8
+Eclock_divider
+w1619513242
+R0
+R1
+R2
+R3
+8C:/Users/aniru/Documents/EPFL/BA First Year/BA2/DSD/Graded_TP/TP78/tp78/entities/clock_divider-entity.vhd
+FC:/Users/aniru/Documents/EPFL/BA First Year/BA2/DSD/Graded_TP/TP78/tp78/entities/clock_divider-entity.vhd
+l0
+L6
+V_AFzM2g09R49]i4=nVW`a1
+!s100 UFLLGL9@FFgA;dfiRcnRQ0
+R4
+32
+R5
+!i10b 1
+R6
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/aniru/Documents/EPFL/BA First Year/BA2/DSD/Graded_TP/TP78/tp78/entities/clock_divider-entity.vhd|
+!s107 C:/Users/aniru/Documents/EPFL/BA First Year/BA2/DSD/Graded_TP/TP78/tp78/entities/clock_divider-entity.vhd|
+!i113 1
+R7
+R8
+Artl
+w1621603108
+R0
+R1
+R2
+DEx4 work 13 clock_divider 0 22 _AFzM2g09R49]i4=nVW`a1
+8C:/Users/aniru/Documents/EPFL/BA First Year/BA2/DSD/Graded_TP/TP78/tp78/architectures/clock_divider-rtl.vhd
+FC:/Users/aniru/Documents/EPFL/BA First Year/BA2/DSD/Graded_TP/TP78/tp78/architectures/clock_divider-rtl.vhd
+l6
+L1
+VFF_kLKA31757@Xn3NjP5B3
+!s100 fN8lGi=?;7`ZkNMkLhjIi2
+R4
+32
+R10
+!i10b 1
+R11
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/aniru/Documents/EPFL/BA First Year/BA2/DSD/Graded_TP/TP78/tp78/architectures/clock_divider-rtl.vhd|
+!s107 C:/Users/aniru/Documents/EPFL/BA First Year/BA2/DSD/Graded_TP/TP78/tp78/architectures/clock_divider-rtl.vhd|
+!i113 1
+R7
+R8
+Ecycle_manager
+w1619513230
+R0
+R1
+R2
+R3
+8C:/Users/aniru/Documents/EPFL/BA First Year/BA2/DSD/Graded_TP/TP78/tp78/entities/cycle_manager-entity.vhd
+FC:/Users/aniru/Documents/EPFL/BA First Year/BA2/DSD/Graded_TP/TP78/tp78/entities/cycle_manager-entity.vhd
+l0
+L5
+VHMJf6Jb`Sg:JXN]cfDln]3
+!s100 8aG`59ZH>mdNH^eV=]Oi61
+R4
+32
+R5
+!i10b 1
+R6
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/aniru/Documents/EPFL/BA First Year/BA2/DSD/Graded_TP/TP78/tp78/entities/cycle_manager-entity.vhd|
+!s107 C:/Users/aniru/Documents/EPFL/BA First Year/BA2/DSD/Graded_TP/TP78/tp78/entities/cycle_manager-entity.vhd|
+!i113 1
+R7
+R8
+Artl
+w1621764510
+R0
+R1
+R2
+DEx4 work 13 cycle_manager 0 22 HMJf6Jb`Sg:JXN]cfDln]3
+8C:/Users/aniru/Documents/EPFL/BA First Year/BA2/DSD/Graded_TP/TP78/tp78/architectures/cycle_manager-rtl.vhd
+FC:/Users/aniru/Documents/EPFL/BA First Year/BA2/DSD/Graded_TP/TP78/tp78/architectures/cycle_manager-rtl.vhd
+l12
+L1
+ViJVEg@gi8J4ZX2hAb;<gT2
+!s100 KG>V@O@RAmYZXC?lE[^8=2
+R4
+32
+R10
+!i10b 1
+R11
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/aniru/Documents/EPFL/BA First Year/BA2/DSD/Graded_TP/TP78/tp78/architectures/cycle_manager-rtl.vhd|
+!s107 C:/Users/aniru/Documents/EPFL/BA First Year/BA2/DSD/Graded_TP/TP78/tp78/architectures/cycle_manager-rtl.vhd|
+!i113 1
+R7
+R8
+Eled_driver
+w1619138820
+R0
+R1
+R2
+R3
+8C:/Users/aniru/Documents/EPFL/BA First Year/BA2/DSD/Graded_TP/TP78/tp78/entities/led_driver-entity.vhd
+FC:/Users/aniru/Documents/EPFL/BA First Year/BA2/DSD/Graded_TP/TP78/tp78/entities/led_driver-entity.vhd
+l0
+L6
+V_<m_9V>mXz=CGU50d507R3
+!s100 =hQ04Dzi77IEoT>Zl@k1N3
+R4
+32
+R5
+!i10b 1
+R6
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/aniru/Documents/EPFL/BA First Year/BA2/DSD/Graded_TP/TP78/tp78/entities/led_driver-entity.vhd|
+!s107 C:/Users/aniru/Documents/EPFL/BA First Year/BA2/DSD/Graded_TP/TP78/tp78/entities/led_driver-entity.vhd|
+!i113 1
+R7
+R8
+Artl
+w1619138974
+R0
+R1
+R2
+Z13 DEx4 work 10 led_driver 0 22 _<m_9V>mXz=CGU50d507R3
+8C:/Users/aniru/Documents/EPFL/BA First Year/BA2/DSD/Graded_TP/TP78/tp78/architectures/led_driver-rtl.vhd
+FC:/Users/aniru/Documents/EPFL/BA First Year/BA2/DSD/Graded_TP/TP78/tp78/architectures/led_driver-rtl.vhd
+l6
+L1
+V3H:n>Zi2QL7_0dNWh4o803
+!s100 hX^ED8MKFLkS_QiaCLZm@3
+R4
+32
+R10
+!i10b 1
+R11
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/aniru/Documents/EPFL/BA First Year/BA2/DSD/Graded_TP/TP78/tp78/architectures/led_driver-rtl.vhd|
+!s107 C:/Users/aniru/Documents/EPFL/BA First Year/BA2/DSD/Graded_TP/TP78/tp78/architectures/led_driver-rtl.vhd|
+!i113 1
+R7
+R8
+Elight_manager
+w1619117936
+R0
+R1
+R2
+R3
+8C:/Users/aniru/Documents/EPFL/BA First Year/BA2/DSD/Graded_TP/TP78/tp78/entities/light_manager-entity.vhd
+FC:/Users/aniru/Documents/EPFL/BA First Year/BA2/DSD/Graded_TP/TP78/tp78/entities/light_manager-entity.vhd
+l0
+L5
+V3W0fg[=?o3[eCbkQ8jzeF2
+!s100 :n`z5mL@eA@Ef2;2O998?2
+R4
+32
+R10
+!i10b 1
+R6
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/aniru/Documents/EPFL/BA First Year/BA2/DSD/Graded_TP/TP78/tp78/entities/light_manager-entity.vhd|
+!s107 C:/Users/aniru/Documents/EPFL/BA First Year/BA2/DSD/Graded_TP/TP78/tp78/entities/light_manager-entity.vhd|
+!i113 1
+R7
+R8
+Artl
+w1621858346
+R0
+R1
+R2
+DEx4 work 13 light_manager 0 22 3W0fg[=?o3[eCbkQ8jzeF2
+8C:\Users\aniru\Documents\EPFL\BA First Year\BA2\DSD\Graded_TP\TP78\tp78\architectures\light_manager-rtl.vhd
+FC:\Users\aniru\Documents\EPFL\BA First Year\BA2\DSD\Graded_TP\TP78\tp78\architectures\light_manager-rtl.vhd
+l37
+L1
+V5YBC_TNOaPV@75VRmY2fC3
+!s100 3KXK5mX1CgU2YX?zJUd^H3
+R4
+32
+R10
+!i10b 1
+R11
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\aniru\Documents\EPFL\BA First Year\BA2\DSD\Graded_TP\TP78\tp78\architectures\light_manager-rtl.vhd|
+!s107 C:\Users\aniru\Documents\EPFL\BA First Year\BA2\DSD\Graded_TP\TP78\tp78\architectures\light_manager-rtl.vhd|
+!i113 1
+R7
+R8
+Elight_manager_normal
+w1619117994
+R0
+R1
+R2
+R3
+8C:/Users/aniru/Documents/EPFL/BA First Year/BA2/DSD/Graded_TP/TP78/tp78/entities/light_manager_normal-entity.vhd
+FC:/Users/aniru/Documents/EPFL/BA First Year/BA2/DSD/Graded_TP/TP78/tp78/entities/light_manager_normal-entity.vhd
+l0
+L5
+V^>c:hL[LKDd2IET1z9@R32
+!s100 P4FzcTC_NFU9B4jbMGc8L2
+R4
+32
+R5
+!i10b 1
+R6
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/aniru/Documents/EPFL/BA First Year/BA2/DSD/Graded_TP/TP78/tp78/entities/light_manager_normal-entity.vhd|
+!s107 C:/Users/aniru/Documents/EPFL/BA First Year/BA2/DSD/Graded_TP/TP78/tp78/entities/light_manager_normal-entity.vhd|
+!i113 1
+R7
+R8
+Artl
+w1621857280
+R0
+R1
+R2
+DEx4 work 20 light_manager_normal 0 22 ^>c:hL[LKDd2IET1z9@R32
+8C:\Users\aniru\Documents\EPFL\BA First Year\BA2\DSD\Graded_TP\TP78\tp78\architectures\light_manager_normal-rtl.vhd
+FC:\Users\aniru\Documents\EPFL\BA First Year\BA2\DSD\Graded_TP\TP78\tp78\architectures\light_manager_normal-rtl.vhd
+l5
+L1
+V8MaVNmVY@g;EJXQ4gXojR3
+!s100 R<>?bcNOkK?^UUZ1mQm7X1
+R4
+32
+R10
+!i10b 1
+R11
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\aniru\Documents\EPFL\BA First Year\BA2\DSD\Graded_TP\TP78\tp78\architectures\light_manager_normal-rtl.vhd|
+!s107 C:\Users\aniru\Documents\EPFL\BA First Year\BA2\DSD\Graded_TP\TP78\tp78\architectures\light_manager_normal-rtl.vhd|
+!i113 1
+R7
+R8
+Elight_manager_rush
+w1619117980
+R0
+R1
+R2
+R3
+8C:/Users/aniru/Documents/EPFL/BA First Year/BA2/DSD/Graded_TP/TP78/tp78/entities/light_manager_rush-entity.vhd
+FC:/Users/aniru/Documents/EPFL/BA First Year/BA2/DSD/Graded_TP/TP78/tp78/entities/light_manager_rush-entity.vhd
+l0
+L5
+VB35BbkUf^^kH4W:zWnYfA0
+!s100 _f_Y[`F@Z<okB]0gN9Yz@3
+R4
+32
+R5
+!i10b 1
+R6
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/aniru/Documents/EPFL/BA First Year/BA2/DSD/Graded_TP/TP78/tp78/entities/light_manager_rush-entity.vhd|
+!s107 C:/Users/aniru/Documents/EPFL/BA First Year/BA2/DSD/Graded_TP/TP78/tp78/entities/light_manager_rush-entity.vhd|
+!i113 1
+R7
+R8
+Artl
+w1621857017
+R0
+R1
+R2
+DEx4 work 18 light_manager_rush 0 22 B35BbkUf^^kH4W:zWnYfA0
+8C:/Users/aniru/Documents/EPFL/BA First Year/BA2/DSD/Graded_TP/TP78/tp78/architectures/light_manager_rush-rtl.vhd
+FC:/Users/aniru/Documents/EPFL/BA First Year/BA2/DSD/Graded_TP/TP78/tp78/architectures/light_manager_rush-rtl.vhd
+l5
+L1
+V>UHXEZb2kkRe0GiLF@aC11
+!s100 TM==>=>JaDPNMDNR^JTlA0
+R4
+32
+R10
+!i10b 1
+R11
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/aniru/Documents/EPFL/BA First Year/BA2/DSD/Graded_TP/TP78/tp78/architectures/light_manager_rush-rtl.vhd|
+!s107 C:/Users/aniru/Documents/EPFL/BA First Year/BA2/DSD/Graded_TP/TP78/tp78/architectures/light_manager_rush-rtl.vhd|
+!i113 1
+R7
+R8
+Pparameters
+R0
+R1
+R2
+w1621514363
+R3
+8C:/Users/aniru/Documents/EPFL/BA First Year/BA2/DSD/Graded_TP/TP78/tp78/packages/parameters.vhd
+FC:/Users/aniru/Documents/EPFL/BA First Year/BA2/DSD/Graded_TP/TP78/tp78/packages/parameters.vhd
+l0
+L5
+V?Oj2g:8>F<`fnl2ofFY;C0
+!s100 ^jnmj=QTi]Kk0ZXeIfkVj2
+R4
+32
+!s110 1621858240
+!i10b 1
+!s108 1621858240.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/aniru/Documents/EPFL/BA First Year/BA2/DSD/Graded_TP/TP78/tp78/packages/parameters.vhd|
+!s107 C:/Users/aniru/Documents/EPFL/BA First Year/BA2/DSD/Graded_TP/TP78/tp78/packages/parameters.vhd|
+!i113 1
+R7
+R8
+Esystem
+w1619138428
+Z14 DPx4 work 10 parameters 0 22 ?Oj2g:8>F<`fnl2ofFY;C0
+R0
+R1
+R2
+R3
+8C:/Users/aniru/Documents/EPFL/BA First Year/BA2/DSD/Graded_TP/TP78/tp78/entities/system-entity.vhd
+FC:/Users/aniru/Documents/EPFL/BA First Year/BA2/DSD/Graded_TP/TP78/tp78/entities/system-entity.vhd
+l0
+L7
+V698zW_ikI0V46Y9a5W[SH1
+!s100 ^AVGRZR1Y?diiUe;fN12`0
+R4
+32
+R5
+!i10b 1
+R6
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/aniru/Documents/EPFL/BA First Year/BA2/DSD/Graded_TP/TP78/tp78/entities/system-entity.vhd|
+!s107 C:/Users/aniru/Documents/EPFL/BA First Year/BA2/DSD/Graded_TP/TP78/tp78/entities/system-entity.vhd|
+!i113 1
+R7
+R8
+Artl
+w1621876261
+R9
+R12
+R13
+R14
+R0
+R1
+R2
+Z15 DEx4 work 6 system 0 22 698zW_ikI0V46Y9a5W[SH1
+8C:\Users\aniru\Documents\EPFL\BA First Year\BA2\DSD\Graded_TP\TP78\tp78\architectures\system-rtl.vhd
+FC:\Users\aniru\Documents\EPFL\BA First Year\BA2\DSD\Graded_TP\TP78\tp78\architectures\system-rtl.vhd
+l65
+L1
+Z16 VUD^:3eeiJBQSWQWS;FY5N0
+Z17 !s100 RF<ON0Se_bz;UN?>?IdCO1
+R4
+32
+R10
+!i10b 1
+R11
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\aniru\Documents\EPFL\BA First Year\BA2\DSD\Graded_TP\TP78\tp78\architectures\system-rtl.vhd|
+!s107 C:\Users\aniru\Documents\EPFL\BA First Year\BA2\DSD\Graded_TP\TP78\tp78\architectures\system-rtl.vhd|
+!i113 1
+R7
+R8

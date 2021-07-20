@@ -1,0 +1,38 @@
+# You have to replace <ENTITY_PORT_NAME_xxx> with the name of the Output port
+# of your top entity
+
+set_location_assignment PIN_T3  -to seg1[0]
+set_location_assignment PIN_R6  -to seg1[1]
+set_location_assignment PIN_R5  -to seg1[2]
+set_location_assignment PIN_P7  -to seg1[3]
+set_location_assignment PIN_N8  -to seg1[4]
+set_location_assignment PIN_N7  -to seg1[5]
+set_location_assignment PIN_F13 -to seg1[6]
+set_location_assignment PIN_P6  -to seg1[7]
+
+set_location_assignment PIN_K19 -to seg2[0]
+set_location_assignment PIN_T9  -to seg2[1]
+set_location_assignment PIN_E14 -to seg2[2]
+set_location_assignment PIN_T5  -to seg2[3]
+set_location_assignment PIN_T7  -to seg2[4]
+set_location_assignment PIN_R7  -to seg2[5]
+set_location_assignment PIN_T4  -to seg2[6]
+set_location_assignment PIN_T8  -to seg2[7]
+
+set_location_assignment PIN_U9  -to seg3[0]
+set_location_assignment PIN_W8  -to seg3[1]
+set_location_assignment PIN_V8  -to seg3[2]
+set_location_assignment PIN_Y4  -to seg3[3]
+set_location_assignment PIN_T11 -to seg3[4]
+set_location_assignment PIN_Y10 -to seg3[5]
+set_location_assignment PIN_T10 -to seg3[6]
+set_location_assignment PIN_W7  -to seg3[7]
+
+set_location_assignment PIN_U11 -to seg4[0]
+set_location_assignment PIN_G18 -to seg4[1]
+set_location_assignment PIN_M8  -to seg4[2]
+set_location_assignment PIN_L6  -to seg4[3]
+set_location_assignment PIN_W10 -to seg4[4]
+set_location_assignment PIN_U10 -to seg4[5]
+set_location_assignment PIN_V9  -to seg4[6]
+set_location_assignment PIN_L7  -to seg4[7]

@@ -1,0 +1,51 @@
+{C:/Users/aniru/Documents/EPFL/BA First Year/BA2/DSD/Graded_TP/TP78/tp78/entities/light_manager-entity.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/aniru/Documents/EPFL/BA First Year/BA2/DSD/Graded_TP/TP78/tp78/entities/light_manager-entity.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity light_manager
+
+} {} {}} {C:/Users/aniru/Documents/EPFL/BA First Year/BA2/DSD/Graded_TP/TP78/tp78/entities/light_manager_normal-entity.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/aniru/Documents/EPFL/BA First Year/BA2/DSD/Graded_TP/TP78/tp78/entities/light_manager_normal-entity.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity light_manager_normal
+
+} {} {}} {C:/Users/aniru/Documents/EPFL/BA First Year/BA2/DSD/Graded_TP/TP78/tp78/entities/light_manager_rush-entity.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/aniru/Documents/EPFL/BA First Year/BA2/DSD/Graded_TP/TP78/tp78/entities/light_manager_rush-entity.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity light_manager_rush
+
+} {} {}} {C:/Users/aniru/Documents/EPFL/BA First Year/BA2/DSD/Graded_TP/TP78/tp78/architectures/light_manager_normal-rtl.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:\Users\aniru\Documents\EPFL\BA First Year\BA2\DSD\Graded_TP\TP78\tp78\architectures\light_manager_normal-rtl.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Compiling architecture rtl of light_manager_normal
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading entity light_manager_normal
+
+} {} {}} {C:/Users/aniru/Documents/EPFL/BA First Year/BA2/DSD/Graded_TP/TP78/tp78/packages/parameters.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/aniru/Documents/EPFL/BA First Year/BA2/DSD/Graded_TP/TP78/tp78/packages/parameters.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling package parameters
+
+} {} {}} {C:/Users/aniru/Documents/EPFL/BA First Year/BA2/DSD/Graded_TP/TP78/tp78/architectures/light_manager_rush-rtl.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/aniru/Documents/EPFL/BA First Year/BA2/DSD/Graded_TP/TP78/tp78/architectures/light_manager_rush-rtl.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Compiling architecture rtl of light_manager_rush
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading entity light_manager_rush
+
+} {} {}}
